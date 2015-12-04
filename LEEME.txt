@@ -1,0 +1,7 @@
+Practica Desarrollada por Iván García Campos.
+
+Si se desea compilar la practica deberá hacerse con el siguiente comando:
+
+g++ main.cpp mochilaD.cpp mochila_greedy.cpp mochila_ramificada.cpp -lrt
+
+Debido al uso de la funcion clock_gettime() es necesario la compilacion con -lrt al final.
